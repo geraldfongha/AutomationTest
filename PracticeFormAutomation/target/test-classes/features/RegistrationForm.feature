@@ -31,7 +31,7 @@ Feature: Student Registration Form
       |firstName  | lastName | email                        | phoneNumber | homeAddress | gender |
       | Jay       |    Fon   | jayfon@aol.com               | 07889815555 |  Glasgow, UK| Male   |
       | Test       | Tester  | fitzgeraldh2k@yahoo.com      | 07889814444 |  London, UK| other   |
-      | Lina      |  Testers    | fitzgeraldh2k@gmail.com  | 07889813333 |  Leeds, UK| Female    |
+      | Lina      |  Testers | fitzgeraldh2k@gmail.com   | 07889813333 |  Leeds, UK| Female    |
   @regression @invalid
   Scenario: Invalid Registration
 
