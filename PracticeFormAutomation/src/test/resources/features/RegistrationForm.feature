@@ -21,7 +21,7 @@ Feature: Student Registration Form
     And the user enters address "<homeAddress>"
     And the user selects a state
     And the user selects a city
-    #And the user selects a subject
+
 
     When the user clicks on the submit button
    Then the form is submitted successfully
